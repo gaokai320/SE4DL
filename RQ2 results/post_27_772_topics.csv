@@ -1,0 +1,28 @@
+Topic No,Topic Name,Topic Words,Count,Trend,Workflow Stage
+0,Installation Error,instal python version import error window run cuda command environ,6556,no trend,Preliminary Preparation
+1,Reinforcement Learning,network neural learn deep implement net problem machin convolut simpl,2150,decreasing,Specific Area
+2,Device Use,gpu memori run cpu devic time process cuda gpus gb,3963,decreasing,Model Training
+3,Model Tuning,accuraci train loss epoch valid learn rate metric step increas,3724,increasing,Model Tuning
+4,Code Error,error code run problem messag fix issu solv object python,5818,increasing,General Problem
+5,Probability,implement perform result time differ case multipl question point number,3373,decreasing,Model Setup
+6,Build Error,build file run serv local bazel server compil docker directori,3299,decreasing,Preliminary Preparation
+7,Image Preprocessing,imag cnn dataset pixel augment classifi folder pictur segment directori,3500,increasing,Data Preparation
+8,Review,find question ve work found understand don document answer problem,3822,decreasing,General Problem
+9,Model Prediction,model convert file graph infer pb tflite android export lite,2601,increasing,Model Deployment
+10,Evaluation Metrics,predict model train data test set result valu make evalu,3398,increasing,Model Evaluation
+11,Static Graph,tf variabl graph tensorboard initi session estim creat op call,4021,decreasing,Model Setup
+12,Model Load,model train save load weight checkpoint pre creat restor file,5225,increasing,Model Training
+13,Data Type,input output array shape numpi tensor list feed return convert,3376,no trend,Data Preparation
+14,Tensor Operation,tensor matrix vector valu element index row oper dimens list,4163,decreasing,Preliminary Preparation
+15,API Misuse,work generat problem ve code doesn fine chang issu creat,2608,increasing,Model Training
+16,Loss Function,function loss custom gradient calcul implement comput optim defin call,4333,increasing,Model Setup
+17,Classification,class label classif classifi binari predict problem probabl multi sampl,2198,no trend,Model Setup
+18,Tensor Shape,shape input layer dimens size conv convolut output reshap filter,3455,increasing,Model Setup
+19,API Usage,code run work line result chang print tutori wrong show,4473,decreasing,Model Setup
+20,Layer Operation,layer weight output activ input network dens add hidden bias,3459,no trend,Model Setup
+21,Error Traceback,python py file line import lib user packag modul lib_sit,794,increasing,General Problem
+22,Embedding,embed word text sentenc vector sequenc encod decod token length,2218,no trend,Model Setup
+23,Data Load,data file dataset featur read column csv tfrecord label tf,3278,no trend,Data Preparation
+24,LSTM,lstm time sequenc rnn state step input seri featur cell,2426,decreasing,Model Setup
+25,Data Batch,batch size train data dataset sampl iter number generat set,2623,no trend,Data Preparation
+26,Object Detection API,object detect api train video imag frame bounding_box config box,1976,increasing,Specific Area

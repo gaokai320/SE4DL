@@ -1,0 +1,28 @@
+Id,Topic,Trend,Hypothesis,p-value,z-score
+0,Installation Error,no trend,FALSE,0.244214129,-1.164518059
+1,Reinforcement Learning,decreasing,TRUE,0.008102362,-2.647774215
+2,Device Use,decreasing,TRUE,2.29E-07,-5.17370461
+3,Model Tuning,increasing,TRUE,1.08E-12,7.120361663
+4,Code Error,increasing,TRUE,1.78E-12,7.050838197
+5,Probability,decreasing,TRUE,0.000383056,-3.551490398
+6,Build Error,decreasing,TRUE,2.40E-05,-4.223550572
+7,Image Preprocessing,increasing,TRUE,6.06E-08,5.417036741
+8,Review,decreasing,TRUE,0.000566418,-3.447205199
+9,Model Conversion,increasing,TRUE,7.06E-13,7.178297885
+10,Evaluation Metrics,increasing,TRUE,1.05E-10,6.460105578
+11,Static Graph,decreasing,TRUE,0,-9.518921247
+12,Model Load,increasing,TRUE,3.51E-10,6.274492824
+13,Data Type,no trend,FALSE,0.051571944,1.946689725
+14,Tensor Operation,decreasing,TRUE,1.68E-07,-5.231640831
+15,API Misuse,increasing,TRUE,1.10E-05,4.397359237
+16,Loss Function,increasing,TRUE,0.001863444,3.111175112
+17,Classification,no trend,FALSE,0.066272183,1.836578232
+18,Tensor Shape,increasing,TRUE,0.000213802,3.702124575
+19,API Usage,decreasing,TRUE,1.53E-10,-6.401952512
+20,Layer Operation,no trend,FALSE,0.356953364,0.921185927
+21,Error Traceback,increasing,TRUE,0.007830958,2.659272582
+22,Embedding,no trend,FALSE,0.4760837,0.712615529
+23,Data Load,no trend,FALSE,0.17335535,-1.361501213
+24,LSTM,decreasing,TRUE,3.11E-05,-4.16561435
+25,Data Batch,no trend,FALSE,0.95841507,0.0521426
+26,Object Detection API,increasing,TRUE,8.92E-05,3.918352291
